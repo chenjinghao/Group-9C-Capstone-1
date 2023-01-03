@@ -1,4 +1,5 @@
-# Group 9C Capstone
+# Group 9C Capstone 
+## 𝗜𝗺𝗽𝗿𝗼𝘃𝗶𝗻𝗴 𝗗𝗲𝗺𝗮𝗻𝗱 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣)
 
 This project is our group's initial foray into the world of Natural Language Processing and Machine Learning. We worked on this as part of the NUS SGUS Fintech Program's Capstone Project. In this repository, we are mainly focusing on delivering two things:
 1. Being able to classify statements into different "types" of statements.
@@ -17,6 +18,12 @@ After we had showcased file 1 to our stakeholders, we gathered some feedback on 
 
 In file "3 SVM Binary Classification with Temporal Extraction", we had utilized the model with the best accuracy from file "2 SemEval10 Binary Classification" - Support Vector Machine with Linear Kernel - to conduct a binary classification to identify "cause-effect" statements. The code then uses spacy with a roberta transformer to extract temporal information. This performed much better than spacy without the transformer - better in the sense it could pick out dates in any form eg. "04.10.2022" and also relevant time period information like "Q2" which normal spacy could not do.
 
-
+## Team Member
+Connect with us
+- Adam Chen [LinkedIn](www.linkedin.com/in/adam-cjh)
+- Beatrice Yap [LinedIn](https://www.linkedin.com/in/beatrice-yap-616b4965/)
+- Jeremy Tan [LinkedIn](https://www.linkedin.com/in/mrjeremytan/)
+- Maggie Mak [LinkedIn](https://www.linkedin.com/in/maggiemakkm/)
+- Nicole Teoh [LinkedIn](https://www.linkedin.com/in/nicoleteoh/)
 
 
