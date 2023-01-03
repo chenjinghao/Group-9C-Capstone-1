@@ -1,5 +1,5 @@
 # Group 9C Capstone 
-## 𝗜𝗺𝗽𝗿𝗼𝘃𝗶𝗻𝗴 𝗗𝗲𝗺𝗮𝗻𝗱 𝗙𝗼𝗿𝗲𝗰𝗮𝘀𝘁𝗶𝗻𝗴 𝘄𝗶𝘁𝗵 𝗡𝗮𝘁𝘂𝗿𝗮𝗹 𝗟𝗮𝗻𝗴𝘂𝗮𝗴𝗲 𝗣𝗿𝗼𝗰𝗲𝘀𝘀𝗶𝗻𝗴 (𝗡𝗟𝗣)
+## Improving Demand Forecasting with Natural Language Processing (NLP)
 
 This project is our group's initial foray into the world of Natural Language Processing and Machine Learning. We worked on this as part of the NUS SGUS Fintech Program's Capstone Project. In this repository, we are mainly focusing on delivering two things:
 1. Being able to classify statements into different "types" of statements.
